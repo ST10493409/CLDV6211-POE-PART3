@@ -18,7 +18,7 @@ namespace EventEase.Controllers
         {
             var bookings = _context.BookingView.AsQueryable();
 
-            if(!string.IsNullOrEmpty(search))
+            if (!string.IsNullOrEmpty(search))
             {
                 bookings = bookings.Where(b =>
                 b.VenueName.Contains(search) ||
