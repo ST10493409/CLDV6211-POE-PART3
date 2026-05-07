@@ -7,20 +7,28 @@
       "RelativeMoniker": "D:0:0:{6058E74C-9597-760A-EF04-45067ABAD142}|EventEase\\EventEase.csproj|solutionrelative:eventease\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6058E74C-9597-760A-EF04-45067ABAD142}|EventEase\\EventEase.csproj|c:\\users\\lab_services_student\\documents\\github\\cldv6211-poe-part2\\eventease\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6058E74C-9597-760A-EF04-45067ABAD142}|EventEase\\EventEase.csproj|solutionrelative:eventease\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6058E74C-9597-760A-EF04-45067ABAD142}|EventEase\\EventEase.csproj|c:\\users\\lab_services_student\\documents\\github\\cldv6211-poe-part2\\eventease\\controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6058E74C-9597-760A-EF04-45067ABAD142}|EventEase\\EventEase.csproj|solutionrelative:eventease\\controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6058E74C-9597-760A-EF04-45067ABAD142}|EventEase\\EventEase.csproj|c:\\users\\lab_services_student\\documents\\github\\cldv6211-poe-part2\\eventease\\services\\blobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6058E74C-9597-760A-EF04-45067ABAD142}|EventEase\\EventEase.csproj|solutionrelative:eventease\\services\\blobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6058E74C-9597-760A-EF04-45067ABAD142}|EventEase\\EventEase.csproj|c:\\users\\lab_services_student\\documents\\github\\cldv6211-poe-part2\\eventease\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6058E74C-9597-760A-EF04-45067ABAD142}|EventEase\\EventEase.csproj|solutionrelative:eventease\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6058E74C-9597-760A-EF04-45067ABAD142}|EventEase\\EventEase.csproj|c:\\users\\lab_services_student\\documents\\github\\cldv6211-poe-part2\\eventease\\models\\bookingview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6058E74C-9597-760A-EF04-45067ABAD142}|EventEase\\EventEase.csproj|solutionrelative:eventease\\models\\bookingview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6058E74C-9597-760A-EF04-45067ABAD142}|EventEase\\EventEase.csproj|c:\\users\\lab_services_student\\documents\\github\\cldv6211-poe-part2\\eventease\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6058E74C-9597-760A-EF04-45067ABAD142}|EventEase\\EventEase.csproj|solutionrelative:eventease\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6058E74C-9597-760A-EF04-45067ABAD142}|EventEase\\EventEase.csproj|c:\\users\\lab_services_student\\documents\\github\\cldv6211-poe-part2\\eventease\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6058E74C-9597-760A-EF04-45067ABAD142}|EventEase\\EventEase.csproj|solutionrelative:eventease\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6058E74C-9597-760A-EF04-45067ABAD142}|EventEase\\EventEase.csproj|c:\\users\\lab_services_student\\documents\\github\\cldv6211-poe-part2\\eventease\\controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6058E74C-9597-760A-EF04-45067ABAD142}|EventEase\\EventEase.csproj|solutionrelative:eventease\\controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6058E74C-9597-760A-EF04-45067ABAD142}|EventEase\\EventEase.csproj|c:\\users\\lab_services_student\\documents\\github\\cldv6211-poe-part2\\eventease\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,16 +51,8 @@
       "RelativeMoniker": "D:0:0:{6058E74C-9597-760A-EF04-45067ABAD142}|EventEase\\EventEase.csproj|solutionrelative:eventease\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6058E74C-9597-760A-EF04-45067ABAD142}|EventEase\\EventEase.csproj|c:\\users\\lab_services_student\\documents\\github\\cldv6211-poe-part2\\eventease\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6058E74C-9597-760A-EF04-45067ABAD142}|EventEase\\EventEase.csproj|solutionrelative:eventease\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6058E74C-9597-760A-EF04-45067ABAD142}|EventEase\\EventEase.csproj|c:\\users\\lab_services_student\\documents\\github\\cldv6211-poe-part2\\eventease\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6058E74C-9597-760A-EF04-45067ABAD142}|EventEase\\EventEase.csproj|solutionrelative:eventease\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6058E74C-9597-760A-EF04-45067ABAD142}|EventEase\\EventEase.csproj|c:\\users\\lab_services_student\\documents\\github\\cldv6211-poe-part2\\eventease\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6058E74C-9597-760A-EF04-45067ABAD142}|EventEase\\EventEase.csproj|solutionrelative:eventease\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,7 +66,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\CLDV6211-POE-PART2\\EventEase\\Views\\Booking\\Index.cshtml",
               "RelativeDocumentMoniker": "EventEase\\Views\\Booking\\Index.cshtml",
@@ -74,12 +74,11 @@
               "RelativeToolTip": "EventEase\\Views\\Booking\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-07T14:57:20.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T14:57:20.561Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\CLDV6211-POE-PART2\\EventEase\\Views\\Venue\\Index.cshtml",
               "RelativeDocumentMoniker": "EventEase\\Views\\Venue\\Index.cshtml",
@@ -87,12 +86,11 @@
               "RelativeToolTip": "EventEase\\Views\\Venue\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-07T14:46:59.497Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T14:46:59.497Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\CLDV6211-POE-PART2\\EventEase\\Views\\Venue\\Create.cshtml",
               "RelativeDocumentMoniker": "EventEase\\Views\\Venue\\Create.cshtml",
@@ -100,12 +98,11 @@
               "RelativeToolTip": "EventEase\\Views\\Venue\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-07T14:34:21.146Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T14:34:21.146Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\CLDV6211-POE-PART2\\EventEase\\appsettings.json",
               "RelativeDocumentMoniker": "EventEase\\appsettings.json",
@@ -113,12 +110,11 @@
               "RelativeToolTip": "EventEase\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-07T13:12:08.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T13:12:08.562Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\CLDV6211-POE-PART2\\EventEase\\Program.cs",
               "RelativeDocumentMoniker": "EventEase\\Program.cs",
@@ -126,8 +122,7 @@
               "RelativeToolTip": "EventEase\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T13:05:42.508Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T13:05:42.508Z"
             },
             {
               "$type": "Document",
@@ -137,14 +132,14 @@
               "RelativeDocumentMoniker": "EventEase\\Controllers\\BookingController.cs",
               "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\CLDV6211-POE-PART2\\EventEase\\Controllers\\BookingController.cs",
               "RelativeToolTip": "EventEase\\Controllers\\BookingController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-07T12:03:51.467Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "VenueController.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\CLDV6211-POE-PART2\\EventEase\\Controllers\\VenueController.cs",
               "RelativeDocumentMoniker": "EventEase\\Controllers\\VenueController.cs",
@@ -157,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "BlobService.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\CLDV6211-POE-PART2\\EventEase\\Services\\BlobService.cs",
               "RelativeDocumentMoniker": "EventEase\\Services\\BlobService.cs",
@@ -170,20 +165,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\CLDV6211-POE-PART2\\EventEase\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "EventEase\\Data\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\CLDV6211-POE-PART2\\EventEase\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "EventEase\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-06T22:33:22.691Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 4,
               "Title": "Event.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\CLDV6211-POE-PART2\\EventEase\\Models\\Event.cs",
               "RelativeDocumentMoniker": "EventEase\\Models\\Event.cs",
@@ -191,24 +186,25 @@
               "RelativeToolTip": "EventEase\\Models\\Event.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T21:49:53.067Z"
+              "WhenOpened": "2026-05-06T21:49:53.067Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "BookingView.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\CLDV6211-POE-PART2\\EventEase\\Models\\BookingView.cs",
               "RelativeDocumentMoniker": "EventEase\\Models\\BookingView.cs",
               "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\CLDV6211-POE-PART2\\EventEase\\Models\\BookingView.cs",
               "RelativeToolTip": "EventEase\\Models\\BookingView.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-06T21:50:44.37Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "Booking.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\CLDV6211-POE-PART2\\EventEase\\Models\\Booking.cs",
               "RelativeDocumentMoniker": "EventEase\\Models\\Booking.cs",
@@ -216,11 +212,12 @@
               "RelativeToolTip": "EventEase\\Models\\Booking.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T21:50:15.303Z"
+              "WhenOpened": "2026-05-06T21:50:15.303Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Venue.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\CLDV6211-POE-PART2\\EventEase\\Models\\Venue.cs",
               "RelativeDocumentMoniker": "EventEase\\Models\\Venue.cs",

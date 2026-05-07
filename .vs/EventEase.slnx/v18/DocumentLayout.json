@@ -132,7 +132,7 @@
               "RelativeDocumentMoniker": "EventEase\\Controllers\\BookingController.cs",
               "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\CLDV6211-POE-PART2\\EventEase\\Controllers\\BookingController.cs",
               "RelativeToolTip": "EventEase\\Controllers\\BookingController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-07T12:03:51.467Z",
               "EditorCaption": ""
@@ -147,8 +147,7 @@
               "RelativeToolTip": "EventEase\\Controllers\\VenueController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T09:48:27.633Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T09:48:27.633Z"
             },
             {
               "$type": "Document",
@@ -160,8 +159,7 @@
               "RelativeToolTip": "EventEase\\Services\\BlobService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T22:38:47.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-06T22:38:47.257Z"
             },
             {
               "$type": "Document",
@@ -173,8 +171,7 @@
               "RelativeToolTip": "EventEase\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T22:33:22.691Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-06T22:33:22.691Z"
             },
             {
               "$type": "Document",
@@ -186,8 +183,7 @@
               "RelativeToolTip": "EventEase\\Models\\Event.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T21:49:53.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-06T21:49:53.067Z"
             },
             {
               "$type": "Document",
@@ -199,8 +195,7 @@
               "RelativeToolTip": "EventEase\\Models\\BookingView.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T21:50:44.37Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-06T21:50:44.37Z"
             },
             {
               "$type": "Document",
@@ -212,8 +207,7 @@
               "RelativeToolTip": "EventEase\\Models\\Booking.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T21:50:15.303Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-06T21:50:15.303Z"
             },
             {
               "$type": "Document",
