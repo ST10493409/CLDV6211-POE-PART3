@@ -35,7 +35,7 @@ namespace EventEase.Controllers
         [HttpPost]
         public IActionResult Create(Booking booking)
         {
-            var exists = _context.Booking.Any(b =>
+            var exists = _context.Bookings.Any(b =>
             b.VenueId == booking.VenueId &&
             b.StartDate < booking.EndDate &&
             booking.StartDate < b.EndDate);
@@ -46,7 +46,7 @@ namespace EventEase.Controllers
                 return View(booking);
             }
 
-            _context.Booking.Add(booking);
+            _context.Bookings.Add(booking);
             _context.SaveChanges();
 
             return RedirectToAction("Index");

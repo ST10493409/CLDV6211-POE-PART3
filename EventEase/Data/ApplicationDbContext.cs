@@ -9,8 +9,16 @@ namespace EventEase.Data
 
         public DbSet<Venue> Venues { get; set; }
         public DbSet<Event> Events { get; set; }
-        public DbSet<Booking> Booking { get; set; }
+        public DbSet<Booking> Bookings { get; set; }
         public DbSet<BookingView> BookingView { get; set; }
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+            modelBuilder.Entity<BookingView>()
+                .HasNoKey()
+                .ToView("BookingView");
+                
+        }
 
 
     }
