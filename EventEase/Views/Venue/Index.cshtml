@@ -1,0 +1,10 @@
+﻿@model IEnumerable<Venue>
+
+@foreach (var item in Model)
+{
+    <div>
+        <h3>@item.Name</h3>
+        <p>Capacity: @item.Capacity</p>
+        <img src="@item.ImageUrl" width="200" />
+    </div>
+}

@@ -1,0 +1,25 @@
+﻿@model IEnumerable<BookingView>
+
+    <form method="get">
+        <input type="text" name="search" placeholder="Search  bookings..." />
+        <button type="submit">Search</button>
+    </form>
+
+    <table>
+        <tr>
+            <th>Venue</th>
+            <th>Event</th>
+            <th>Start</th>
+            <th>End</th>
+        </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.VenueName</td>
+            <td>@item.EventName</td>
+            <td>@item.StartDate</td>
+            <td>@item.EndDate</td>
+        </tr>
+    }
+</table>
