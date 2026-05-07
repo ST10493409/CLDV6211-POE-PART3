@@ -1,0 +1,10 @@
+C:\Users\lab_services_student\Documents\GitHub\CLDV6211-POE-PART2\EventEase\obj\Debug\net10.0\EventEase.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\Documents\GitHub\CLDV6211-POE-PART2\EventEase\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\lab_services_student\Documents\GitHub\CLDV6211-POE-PART2\EventEase\obj\Debug\net10.0\EventEase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Documents\GitHub\CLDV6211-POE-PART2\EventEase\obj\Debug\net10.0\EventEase.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Documents\GitHub\CLDV6211-POE-PART2\EventEase\obj\Debug\net10.0\EventEase.AssemblyInfo.cs
+C:\Users\lab_services_student\Documents\GitHub\CLDV6211-POE-PART2\EventEase\obj\Debug\net10.0\EventEase.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Documents\GitHub\CLDV6211-POE-PART2\EventEase\obj\Debug\net10.0\EventEase.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lab_services_student\Documents\GitHub\CLDV6211-POE-PART2\EventEase\obj\Debug\net10.0\EventEase.RazorAssemblyInfo.cache
+C:\Users\lab_services_student\Documents\GitHub\CLDV6211-POE-PART2\EventEase\obj\Debug\net10.0\EventEase.RazorAssemblyInfo.cs
+C:\Users\lab_services_student\Documents\GitHub\CLDV6211-POE-PART2\EventEase\obj\Debug\net10.0\EventEase.sourcelink.json
