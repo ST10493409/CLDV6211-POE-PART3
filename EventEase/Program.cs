@@ -37,3 +37,10 @@ app.MapControllerRoute(
 
 
 app.Run();
+
+//Referencing
+//
+//Microsoft(2024) SQL Langauage Referencing. Available at:
+//https://docs.oracle.com (accessed: 7 May 2026)
+//
+//Mrzyglod, K.(2022) Azure for Developers. Birmingham: Packt Publishing.
