@@ -4,5 +4,9 @@
     {
         public string EventId { get; set; }
         public string Name { get; set; }
+
+        public int EventTypeId { get; set; }
+
+        public EventType? EventType { get; set; }
     }
 }
