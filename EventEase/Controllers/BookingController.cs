@@ -21,8 +21,9 @@ namespace EventEase.Controllers
             if (!string.IsNullOrEmpty(search))
             {
                 bookings = bookings.Where(b =>
-                b.VenueName.Contains(search) ||
-                b.EventName.Contains(search));
+            b.BookingId.ToString().Contains(search) ||
+            b.VenueName.Contains(search) ||
+            b.EventName.Contains(search));
             }
             return View(bookings.ToList());
         }
