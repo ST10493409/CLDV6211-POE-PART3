@@ -82,21 +82,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 10,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER-PC\\OneDrive\\Documents\\GitHub\\CLDV6211-POE-PART3\\EventEase\\Views\\Event\\Index.cshtml",
-              "RelativeDocumentMoniker": "EventEase\\Views\\Event\\Index.cshtml",
-              "ToolTip": "C:\\Users\\USER-PC\\OneDrive\\Documents\\GitHub\\CLDV6211-POE-PART3\\EventEase\\Views\\Event\\Index.cshtml",
-              "RelativeToolTip": "EventEase\\Views\\Event\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-04T14:42:51.153Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
@@ -107,8 +94,7 @@
               "RelativeToolTip": "EventEase\\Views\\Venue\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-07T14:34:21.146Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T14:34:21.146Z"
             },
             {
               "$type": "Document",
@@ -120,8 +106,7 @@
               "RelativeToolTip": "EventEase\\Views\\Venue\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-07T14:46:59.497Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T14:46:59.497Z"
             },
             {
               "$type": "Document",
@@ -133,8 +118,7 @@
               "RelativeToolTip": "EventEase\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-07T13:12:08.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T13:12:08.562Z"
             },
             {
               "$type": "Document",
@@ -159,8 +143,7 @@
               "RelativeToolTip": "EventEase\\Views\\Booking\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-07T14:57:20.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T14:57:20.561Z"
             },
             {
               "$type": "Document",
@@ -172,8 +155,7 @@
               "RelativeToolTip": "EventEase\\Services\\BlobService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T22:38:47.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-06T22:38:47.257Z"
             },
             {
               "$type": "Document",
@@ -242,6 +224,18 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER-PC\\OneDrive\\Documents\\GitHub\\CLDV6211-POE-PART3\\EventEase\\Views\\Event\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventEase\\Views\\Event\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER-PC\\OneDrive\\Documents\\GitHub\\CLDV6211-POE-PART3\\EventEase\\Views\\Event\\Index.cshtml",
+              "RelativeToolTip": "EventEase\\Views\\Event\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-04T14:42:51.153Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
               "Title": "20260604153101_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\USER-PC\\OneDrive\\Documents\\GitHub\\CLDV6211-POE-PART3\\EventEase\\Migrations\\20260604153101_InitialCreate.cs",
@@ -250,8 +244,7 @@
               "RelativeToolTip": "EventEase\\Migrations\\20260604153101_InitialCreate.cs",
               "ViewState": "AgIAAFUAAAAAAAAAAAAgwHAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-04T15:31:01.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-04T15:31:01.639Z"
             },
             {
               "$type": "Document",
@@ -263,8 +256,7 @@
               "RelativeToolTip": "EventEase\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T22:33:22.691Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-06T22:33:22.691Z"
             },
             {
               "$type": "Document",
@@ -276,8 +268,7 @@
               "RelativeToolTip": "EventEase\\Controllers\\VenueController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T09:48:27.633Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T09:48:27.633Z"
             },
             {
               "$type": "Document",
@@ -289,8 +280,7 @@
               "RelativeToolTip": "EventEase\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-04T17:22:34.488Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-04T17:22:34.488Z"
             },
             {
               "$type": "Document",
@@ -302,8 +292,7 @@
               "RelativeToolTip": "EventEase\\Controllers\\EventController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-03T20:25:22.238Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-03T20:25:22.238Z"
             },
             {
               "$type": "Document",
