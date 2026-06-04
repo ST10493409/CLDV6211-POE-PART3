@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\USER-PC\\OneDrive\\Documents\\GitHub\\CLDV6211-POE-PART3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6058E74C-9597-760A-EF04-45067ABAD142}|EventEase\\EventEase.csproj|c:\\users\\user-pc\\onedrive\\documents\\github\\cldv6211-poe-part3\\eventease\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6058E74C-9597-760A-EF04-45067ABAD142}|EventEase\\EventEase.csproj|solutionrelative:eventease\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6058E74C-9597-760A-EF04-45067ABAD142}|EventEase\\EventEase.csproj|c:\\users\\user-pc\\onedrive\\documents\\github\\cldv6211-poe-part3\\eventease\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6058E74C-9597-760A-EF04-45067ABAD142}|EventEase\\EventEase.csproj|solutionrelative:eventease\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6058E74C-9597-760A-EF04-45067ABAD142}|EventEase\\EventEase.csproj|c:\\users\\user-pc\\onedrive\\documents\\github\\cldv6211-poe-part3\\eventease\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6058E74C-9597-760A-EF04-45067ABAD142}|EventEase\\EventEase.csproj|solutionrelative:eventease\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,20 +39,12 @@
       "RelativeMoniker": "D:0:0:{6058E74C-9597-760A-EF04-45067ABAD142}|EventEase\\EventEase.csproj|solutionrelative:eventease\\models\\eventtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6058E74C-9597-760A-EF04-45067ABAD142}|EventEase\\EventEase.csproj|c:\\users\\user-pc\\onedrive\\documents\\github\\cldv6211-poe-part3\\eventease\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6058E74C-9597-760A-EF04-45067ABAD142}|EventEase\\EventEase.csproj|solutionrelative:eventease\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6058E74C-9597-760A-EF04-45067ABAD142}|EventEase\\EventEase.csproj|c:\\users\\user-pc\\onedrive\\documents\\github\\cldv6211-poe-part3\\eventease\\services\\blobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6058E74C-9597-760A-EF04-45067ABAD142}|EventEase\\EventEase.csproj|solutionrelative:eventease\\services\\blobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6058E74C-9597-760A-EF04-45067ABAD142}|EventEase\\EventEase.csproj|c:\\users\\user-pc\\onedrive\\documents\\github\\cldv6211-poe-part3\\eventease\\controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6058E74C-9597-760A-EF04-45067ABAD142}|EventEase\\EventEase.csproj|solutionrelative:eventease\\controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6058E74C-9597-760A-EF04-45067ABAD142}|EventEase\\EventEase.csproj|c:\\users\\user-pc\\onedrive\\documents\\github\\cldv6211-poe-part3\\eventease\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6058E74C-9597-760A-EF04-45067ABAD142}|EventEase\\EventEase.csproj|solutionrelative:eventease\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6058E74C-9597-760A-EF04-45067ABAD142}|EventEase\\EventEase.csproj|c:\\users\\user-pc\\onedrive\\documents\\github\\cldv6211-poe-part3\\eventease\\views\\venue\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -70,11 +70,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "EventController.cs",
               "DocumentMoniker": "C:\\Users\\USER-PC\\OneDrive\\Documents\\GitHub\\CLDV6211-POE-PART3\\EventEase\\Controllers\\EventController.cs",
               "RelativeDocumentMoniker": "EventEase\\Controllers\\EventController.cs",
@@ -99,31 +99,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\USER-PC\\OneDrive\\Documents\\GitHub\\CLDV6211-POE-PART3\\EventEase\\appsettings.json",
               "RelativeDocumentMoniker": "EventEase\\appsettings.json",
               "ToolTip": "C:\\Users\\USER-PC\\OneDrive\\Documents\\GitHub\\CLDV6211-POE-PART3\\EventEase\\appsettings.json",
               "RelativeToolTip": "EventEase\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAC4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-07T13:12:08.562Z"
+              "WhenOpened": "2026-05-07T13:12:08.562Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER-PC\\OneDrive\\Documents\\GitHub\\CLDV6211-POE-PART3\\EventEase\\Program.cs",
               "RelativeDocumentMoniker": "EventEase\\Program.cs",
               "ToolTip": "C:\\Users\\USER-PC\\OneDrive\\Documents\\GitHub\\CLDV6211-POE-PART3\\EventEase\\Program.cs",
               "RelativeToolTip": "EventEase\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T13:05:42.508Z"
+              "WhenOpened": "2026-05-07T13:05:42.508Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "BookingController.cs",
               "DocumentMoniker": "C:\\Users\\USER-PC\\OneDrive\\Documents\\GitHub\\CLDV6211-POE-PART3\\EventEase\\Controllers\\BookingController.cs",
               "RelativeDocumentMoniker": "EventEase\\Controllers\\BookingController.cs",
@@ -135,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "VenueController.cs",
               "DocumentMoniker": "C:\\Users\\USER-PC\\OneDrive\\Documents\\GitHub\\CLDV6211-POE-PART3\\EventEase\\Controllers\\VenueController.cs",
               "RelativeDocumentMoniker": "EventEase\\Controllers\\VenueController.cs",
@@ -147,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "BlobService.cs",
               "DocumentMoniker": "C:\\Users\\USER-PC\\OneDrive\\Documents\\GitHub\\CLDV6211-POE-PART3\\EventEase\\Services\\BlobService.cs",
               "RelativeDocumentMoniker": "EventEase\\Services\\BlobService.cs",
@@ -159,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\USER-PC\\OneDrive\\Documents\\GitHub\\CLDV6211-POE-PART3\\EventEase\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "EventEase\\Data\\ApplicationDbContext.cs",
@@ -171,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Event.cs",
               "DocumentMoniker": "C:\\Users\\USER-PC\\OneDrive\\Documents\\GitHub\\CLDV6211-POE-PART3\\EventEase\\Models\\Event.cs",
               "RelativeDocumentMoniker": "EventEase\\Models\\Event.cs",
@@ -179,11 +181,12 @@
               "RelativeToolTip": "EventEase\\Models\\Event.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T21:49:53.067Z"
+              "WhenOpened": "2026-05-06T21:49:53.067Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "BookingView.cs",
               "DocumentMoniker": "C:\\Users\\USER-PC\\OneDrive\\Documents\\GitHub\\CLDV6211-POE-PART3\\EventEase\\Models\\BookingView.cs",
               "RelativeDocumentMoniker": "EventEase\\Models\\BookingView.cs",
@@ -191,11 +194,12 @@
               "RelativeToolTip": "EventEase\\Models\\BookingView.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T21:50:44.37Z"
+              "WhenOpened": "2026-05-06T21:50:44.37Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Booking.cs",
               "DocumentMoniker": "C:\\Users\\USER-PC\\OneDrive\\Documents\\GitHub\\CLDV6211-POE-PART3\\EventEase\\Models\\Booking.cs",
               "RelativeDocumentMoniker": "EventEase\\Models\\Booking.cs",
@@ -219,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "EventType.cs",
               "DocumentMoniker": "C:\\Users\\USER-PC\\OneDrive\\Documents\\GitHub\\CLDV6211-POE-PART3\\EventEase\\Models\\EventType.cs",
               "RelativeDocumentMoniker": "EventEase\\Models\\EventType.cs",
@@ -227,7 +231,8 @@
               "RelativeToolTip": "EventEase\\Models\\EventType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-03T15:57:08.058Z"
+              "WhenOpened": "2026-06-03T15:57:08.058Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -251,7 +256,8 @@
               "RelativeToolTip": "EventEase\\Models\\Venue.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T21:48:46.294Z"
+              "WhenOpened": "2026-05-06T21:48:46.294Z",
+              "EditorCaption": ""
             }
           ]
         }
